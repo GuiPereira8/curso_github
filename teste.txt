@@ -1,3 +1,9 @@
 TESTANDO FEATURE
 
 :)
+
+Sobre a página home
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+Ea mollitia, facilis harum veritatis, quo porro eum veniam, eveniet quos tenetur reiciendis!
+Amet quae nam minus nobis voluptatibus voluptas cum molestiae?
