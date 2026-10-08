@@ -7,3 +7,12 @@ function login(nome, email) {
 
 // Sistema de login completo
 // Retornamos o nome do usuario quando logado
+
+function soma(a, b) {
+  let valor = a + b;
+
+  return valor;
+}
+
+// Criando Função de soma
+// Para o curso de GIT
