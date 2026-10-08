@@ -1,5 +1,5 @@
-function mostrarNome(nome) {
-  return nome;
+function mostrarNome(nome, sobrenome) {
+  return nome + sobrenome;
 }
 
 // Função para descobrir se o número é ímpar ou par.
